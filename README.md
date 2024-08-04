@@ -20,14 +20,21 @@ This project demonstrates Random Forest, GBM, Ada Boots, XG Boost, and Decision 
 
 ## Features
 
-- List key features and functionalities of your project.
+- Random Forest, GBM, Ada Boots, XG Boost, and Decision Tree tuning.
 - Highlight any unique or significant aspects.
 
 ## Installation
 
 ### Prerequisites
 
-List any prerequisites or dependencies required to run your project.
+List of prerequisites or dependencies:
++ pandas
++ numpy
++ matplotlib
++ seaborn
++ scikit-learn
++ xgboost
++ imbalanced-learn
 
 ### Instructions
 
@@ -47,5 +54,5 @@ pip install -r requirements.txt
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
-# Run the application
-python main.py
+# Run the application (Note: This script [.ipynb] still requires conversion to a .pyc file)
+python3 -m Renewind_notebook
