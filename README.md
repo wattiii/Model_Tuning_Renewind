@@ -56,3 +56,6 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 
 # Run the application (Note: This script [.ipynb] still requires conversion to a .pyc file)
 python3 -m Renewind_notebook
+
+# Work to be done
+
