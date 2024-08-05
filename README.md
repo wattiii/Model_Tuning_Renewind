@@ -16,7 +16,7 @@ This project demonstrates Random Forest, GBM, Ada Boots, XG Boost, and Decision 
 
 ## Introduction
 
-This project demonstrates Random Forest, GBM, Ada Boots, XG Boost, and Decision Tree tuning.
+This project demonstrates hyperparameter tuning and Random Forest, GBM, Ada Boots, XG Boost, and Decision Tree tuning.
 
 ## Features
 
