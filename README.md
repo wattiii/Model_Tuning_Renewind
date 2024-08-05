@@ -58,4 +58,5 @@ source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 python3 -m Renewind_notebook
 
 # Work to be done
-
+Oversample the train data and fit models using it.
+Undersample the train data and fit models using it.
